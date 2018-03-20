@@ -1,0 +1,27 @@
+{
+  "compatibleVersion": 3,
+  "identifier": "com.example.sketch.roughen",
+  "bundleVersion": 1,
+  "version": "1.2",
+  "icon": "icon.png",
+  "description": "Roughens the edges of a shape similar to Illustrator's Roughen effect.",
+  "commands": [
+    {
+      "handler": "onRun",
+      "shortcut": "",
+      "name": "Roughen",
+      "identifier": "roughen",
+      "script": "roughen.js"
+    }
+  ],
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "roughen"
+    ]
+  },
+  "name": "roughen",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Daniel Marino"
+}

@@ -7,10 +7,7 @@
   "skpm": {
     "name": "roughen",
     "manifest": "src/manifest.json",
-    "main": "plugin.sketchplugin",
-    "assets": [
-      "assets/**/*"
-    ]
+    "main": "plugin.sketchplugin"
   },
   "scripts": {
     "build": "skpm-build",
