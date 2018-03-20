@@ -2,6 +2,7 @@
 
 Roughens the edges of a shape in Sketch, similar to Adobe Illustrator's Roughen effect.
 
+![screenshot](https://d2ffutrenqvap3.cloudfront.net/items/3w1q2h0e2G2G3N0l3q2m/Screen%20Recording%202018-03-20%20at%2002.20%20PM.gif)
 
 ---
 
