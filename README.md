@@ -1,4 +1,9 @@
-# roughen
+# Roughen Sketch Plugin
+
+Roughens the edges of a shape in Sketch, similar to Adobe Illustrator's Roughen effect.
+
+
+---
 
 _This plugin was created using `skpm`. For a detailed explanation on how things work, checkout the [skpm Readme](https://github.com/skpm/skpm/blob/master/README.md)._
 
@@ -70,4 +75,3 @@ skpm log
 ```
 
 The `-f` option causes `skpm log` to not stop when the end of logs is reached, but rather to wait for additional data to be appended to the input
-

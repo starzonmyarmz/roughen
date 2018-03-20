@@ -1,18 +1,22 @@
 {
   "compatibleVersion": 3,
+  "identifier" : "com.example.sketch.roughen",
   "bundleVersion": 1,
   "icon": "icon.png",
+  "description" : "Roughens the edges of a shape similar to Illustrator's Roughen effect.",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name": "Roughen",
+      "identifier": "roughen",
+      "script": "./roughen.js"
     }
   ],
   "menu": {
-    "title": "roughen",
+    "isRoot": true,
     "items": [
-      "my-command-identifier"
+      "roughen"
     ]
   }
 }
