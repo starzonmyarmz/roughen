@@ -2,6 +2,7 @@
   "compatibleVersion": 3,
   "identifier" : "com.example.sketch.roughen",
   "bundleVersion": 1,
+  "version": "1.2",
   "icon": "icon.png",
   "description" : "Roughens the edges of a shape similar to Illustrator's Roughen effect.",
   "commands": [
